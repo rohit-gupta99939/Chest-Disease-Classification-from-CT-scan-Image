@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/neuron/ml-ops/Chest-Disease-Classification-from-CT-scan-Image/mlruns/0/de69b1db3a6748aeb153187dd7308a3d/artifacts
+end_time: 1710744695851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de69b1db3a6748aeb153187dd7308a3d
+run_name: calm-shad-444
+run_uuid: de69b1db3a6748aeb153187dd7308a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710744686416
+status: 3
+tags: []
+user_id: rg999

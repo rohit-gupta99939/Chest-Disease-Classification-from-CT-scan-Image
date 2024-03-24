@@ -8,3 +8,9 @@ conda activate chest
 
 # install required packages
 pip install -r requirements.txt
+
+# after writing code for dvc 
+# intialize dvc
+1. dvc init
+2. dvc repro
+3. dvc dag

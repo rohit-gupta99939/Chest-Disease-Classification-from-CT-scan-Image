@@ -60,6 +60,7 @@ def save_json(path: Path, data: dict):
         path (Path): path to json file
         data (dict): data to be saved in json file
     """
+    print("Debug common")
     with open(path, "w") as f:
         json.dump(data, f, indent=4)
 
@@ -135,3 +136,8 @@ def decodeImage(imgstring, fileName):
 def encodeImageIntoBase64(croppedImagePath):
     with open(croppedImagePath, "rb") as f:
         return base64.b64encode(f.read())
+    
+
+
+def demo_test():
+    print("Debug common")
